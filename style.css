@@ -1,0 +1,22 @@
+.logo{
+   max-width: fit-content;
+   display: flex;
+   align-items: center;
+   gap: 10px;
+}
+
+.before{
+   display: flex;
+   flex-direction: column;
+   gap: 3px;
+}
+
+.pyte{
+   height: 15px;
+   width: 40px;
+   background-color: #0A2640;
+}
+
+.top{
+   width: 20px;
+}
